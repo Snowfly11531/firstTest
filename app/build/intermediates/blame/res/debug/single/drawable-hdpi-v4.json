@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_bottom_bg.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable-hdpi\\dialog_bottom_bg.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_cancel_selector.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable-hdpi\\btn_cancel_selector.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\load.gif",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable-hdpi\\load.gif"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loginback.jpg",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable-hdpi\\loginback.jpg"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_ok_selector.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable-hdpi\\btn_ok_selector.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\load1.gif",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable-hdpi\\load1.gif"
+    }
+]

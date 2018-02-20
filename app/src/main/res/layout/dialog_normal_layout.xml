@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:orientation="vertical"
+    android:padding="20.0dip" >
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="hhahaha"
+            android:gravity="center"
+            android:textSize="20dp"
+            android:textColor="#000"
+            android:background="@drawable/shape_corner_top"/>
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:orientation="horizontal"
+            android:background="@drawable/shape_corner_bottom">
+            <TextView
+                android:background="@drawable/shape_corner"
+                android:id="@+id/positiveButton"
+                android:layout_width="0dp"
+                android:layout_height="50dp"
+                android:layout_weight="1"
+                android:textSize="25dp"
+                android:text="YES"
+                android:textColor="#fc3"
+                android:gravity="center"
+                />
+            <TextView
+                android:id="@+id/negativeButton"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="NO"
+                android:textSize="25dp"
+                android:gravity="center"
+                />
+            </LinearLayout>
+    </LinearLayout>
+
+</FrameLayout>

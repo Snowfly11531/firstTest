@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\790765d4610908cf0f750023b87e4060\AndroidManifest.xml:14:4-17:12
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\c9bec482258fea2f2863875b4c1f9406\AndroidManifest.xml:14:4-20:12
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\95c6cb7511cfe87fdb2dc2f5b7e7ee6d\AndroidManifest.xml:14:4-17:12
+MERGED from [com.esri.arcgis.android:arcgis-android:10.2.9] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\arcgis-android-10.2.9.aar\36f5dddc793a4988a1ae939c46a4b68d\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:7:22-78
+uses-feature#0x00030000
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:9:5-11:35
+	android:glEsVersion
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:10:9-41
+	android:required
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:11:9-32
+application
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:13:5-41:19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\790765d4610908cf0f750023b87e4060\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\790765d4610908cf0f750023b87e4060\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\c9bec482258fea2f2863875b4c1f9406\AndroidManifest.xml:17:5-19:19
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\c9bec482258fea2f2863875b4c1f9406\AndroidManifest.xml:17:5-19:19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\95c6cb7511cfe87fdb2dc2f5b7e7ee6d\AndroidManifest.xml:16:5-19
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\95c6cb7511cfe87fdb2dc2f5b7e7ee6d\AndroidManifest.xml:16:5-19
+MERGED from [com.esri.arcgis.android:arcgis-android:10.2.9] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\arcgis-android-10.2.9.aar\36f5dddc793a4988a1ae939c46a4b68d\AndroidManifest.xml:11:5-20
+MERGED from [com.esri.arcgis.android:arcgis-android:10.2.9] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\arcgis-android-10.2.9.aar\36f5dddc793a4988a1ae939c46a4b68d\AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.hasee.firsttest.MainActivity
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:19:19-47
+activity#com.example.hasee.firsttest.MapActivity
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:20:9-49
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:20:19-46
+activity#com.example.hasee.firsttest.TalkActivity
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:21:9-50
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:21:19-47
+activity#com.example.hasee.firsttest.loginActivity
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:22:9-24:37
+	android:label
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:24:13-34
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:23:13-42
+activity#com.example.hasee.firsttest.AdvActivity
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:label
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:27:13-31
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:26:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:31:27-74
+service#com.example.hasee.firsttest.MyService
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:35:9-38:39
+	android:enabled
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:36:13-38
+activity#com.example.hasee.firsttest.addFriendActivity
+ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:40:9-64
+	android:name
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml:40:19-52
+uses-sdk
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\790765d4610908cf0f750023b87e4060\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:appcompat-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\appcompat-v7-21.0.3.aar\790765d4610908cf0f750023b87e4060\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\c9bec482258fea2f2863875b4c1f9406\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\c9bec482258fea2f2863875b4c1f9406\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\95c6cb7511cfe87fdb2dc2f5b7e7ee6d\AndroidManifest.xml:15:5-42
+MERGED from [com.android.support:support-v4:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\support-v4-21.0.3.aar\95c6cb7511cfe87fdb2dc2f5b7e7ee6d\AndroidManifest.xml:15:5-42
+MERGED from [com.esri.arcgis.android:arcgis-android:10.2.9] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\arcgis-android-10.2.9.aar\36f5dddc793a4988a1ae939c46a4b68d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.esri.arcgis.android:arcgis-android:10.2.9] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\arcgis-android-10.2.9.aar\36f5dddc793a4988a1ae939c46a4b68d\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android learning\firstTest\app\src\main\AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\c9bec482258fea2f2863875b4c1f9406\AndroidManifest.xml:18:9-115
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\c9bec482258fea2f2863875b4c1f9406\AndroidManifest.xml:18:19-59
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:21.0.3] C:\Users\hasee\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-21.0.3.aar\c9bec482258fea2f2863875b4c1f9406\AndroidManifest.xml:18:60-113

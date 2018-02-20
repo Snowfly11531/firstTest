@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true">
+    <com.example.hasee.firsttest.ImageViewPlus
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/adv"
+        android:visibility="gone"
+        android:id="@+id/loginpic"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/edittextback"
+        android:layout_margin="5dp"
+        android:textSize="35px"
+        android:hint="  username"
+        android:id="@+id/loginname"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@drawable/edittextback"
+        android:layout_margin="5dp"
+        android:textSize="35px"
+        android:hint="  password"
+        android:id="@+id/loginpass"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="login"
+        android:background="@drawable/button"
+        android:layout_margin="5dp"
+        android:textColor="#fff"
+        android:id="@+id/loginbutton"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/register"
+            android:textColor="@color/transparent"
+            android:textSize="20dp"
+            android:layout_margin="5dp"
+            android:layout_marginRight="8dp"
+            android:id="@+id/toregister"/>
+    </LinearLayout>
+</LinearLayout>

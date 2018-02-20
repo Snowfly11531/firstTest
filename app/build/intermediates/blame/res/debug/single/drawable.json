@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\button.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\disfocus.png",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\disfocus.png"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\getpicture.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\getpicture.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talk.9.png",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\talk.9.png"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\takephoto.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\takephoto.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onfocus.png",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\onfocus.png"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_corner_bottom.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\shape_corner_bottom.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loadbackground.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\loadbackground.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baiban.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\baiban.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_corner_top.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\shape_corner_top.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\removeback.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\removeback.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittextback.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\edittextback.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_corner.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\shape_corner.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talk_right.9.png",
+        "source": "D:\\Android learning\\firstTest\\app\\src\\main\\res\\drawable\\talk_right.9.png"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Android learning\\firstTest\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\drawable\\abc_cab_background_top_material.xml"
+    }
+]

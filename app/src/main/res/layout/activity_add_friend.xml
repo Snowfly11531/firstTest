@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_add_friend"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="3dp">
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/edittextback"
+            android:layout_weight="3"
+            android:textSize="20dp"
+            android:hint="search friends..."
+            android:id="@+id/searchFriendsEditText"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button"
+            android:text="搜索"
+            android:textColor="#fff"
+            android:id="@+id/searchFriendsButtton"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/jiazaiFriendsLayout">
+        <com.ant.liao.GifView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/jiazaiFriendsGifView"
+            android:visibility="invisible"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="加载失败"
+            android:visibility="invisible"
+            android:textSize="20dp"
+            android:id="@+id/jiazaiFriendsTextview"/>
+    </LinearLayout>
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchFriendsList">
+
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

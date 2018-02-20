@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:orientation="vertical"
+    android:padding="20.0dip" >
+<LinearLayout
+    android:orientation="vertical" android:layout_width="300dp"
+    android:layout_gravity="center"
+    android:layout_height="wrap_content">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/takephoto"
+        android:text="拍照"
+        android:textColor="#fff"
+        android:id="@+id/takephoto"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/getpicture"
+        android:text="从相册中获取"
+        android:textColor="#fff"
+        android:id="@+id/getpicture"/>
+</LinearLayout>
+</FrameLayout>
